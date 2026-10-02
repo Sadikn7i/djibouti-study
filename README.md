@@ -1,4 +1,4 @@
-# Structural Transformation in Djibouti – Geospatial Analysis
+
 
 This project assesses the **structural transformation** of Djibouti using data from the world Bank It applies **three different analytical models** to understand industrial change and service transformation.
 
